@@ -15,7 +15,7 @@
 ## 安装
 
 1. 确认 Chrome 中已安装并启用 Tampermonkey。
-2. 点击[安装用户脚本](https://raw.githubusercontent.com/sjy0630/fudan-elearning-pdf-preview/main/elearning-pdf-preview.user.js)，在 Tampermonkey 的安装页面确认。
+2. 点击[安装用户脚本](https://raw.githubusercontent.com/Shauzn-527/fudan-elearning-pdf-preview/main/elearning-pdf-preview.user.js)，在 Tampermonkey 的安装页面确认。
 3. 重新加载 `elearning.fudan.edu.cn` 的作业页面。
 
 也可以在 Tampermonkey 中选择“添加新脚本”，把 [`elearning-pdf-preview.user.js`](elearning-pdf-preview.user.js) 的完整内容粘贴到编辑器并保存。脚本元数据包含更新地址，安装后可接收后续版本。

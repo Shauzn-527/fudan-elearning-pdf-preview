@@ -4,10 +4,10 @@
 // @version      1.1.4
 // @description  在 eLearning 页面中预览 PDF、Word(docx) 与 PowerPoint(pptx)，无需自动保存文件
 // @license      MIT
-// @homepageURL  https://github.com/sjy0630/fudan-elearning-pdf-preview
-// @supportURL   https://github.com/sjy0630/fudan-elearning-pdf-preview/issues
-// @updateURL    https://raw.githubusercontent.com/sjy0630/fudan-elearning-pdf-preview/main/elearning-pdf-preview.user.js
-// @downloadURL  https://raw.githubusercontent.com/sjy0630/fudan-elearning-pdf-preview/main/elearning-pdf-preview.user.js
+// @homepageURL  https://github.com/Shauzn-527/fudan-elearning-pdf-preview
+// @supportURL   https://github.com/Shauzn-527/fudan-elearning-pdf-preview/issues
+// @updateURL    https://raw.githubusercontent.com/Shauzn-527/fudan-elearning-pdf-preview/main/elearning-pdf-preview.user.js
+// @downloadURL  https://raw.githubusercontent.com/Shauzn-527/fudan-elearning-pdf-preview/main/elearning-pdf-preview.user.js
 // @match        https://elearning.fudan.edu.cn/*
 // @run-at       document-idle
 // @grant        GM_xmlhttpRequest
